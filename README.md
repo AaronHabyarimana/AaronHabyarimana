@@ -1,6 +1,6 @@
 # Aaron Habyarimana
 
-CS student at JGU Mainz.
+CS student at JGU Mainz, graduating September 2026. Currently a working student at Aareon, building internal AI agents with n8n and Copilot Studio.
 
 ## Projects
 
@@ -14,6 +14,14 @@ Bachelor's thesis. An LLM extracts arguments from debate texts and classifies wh
 which; SWI-Prolog solves the resulting Dung-style argumentation framework. Every stage writes its
 artifacts to disk, so a result can be traced back to the sentence it came from.
 Python · SWI-Prolog.
+
+**[social-engineering-resilience-trainer](https://github.com/AaronHabyarimana/phish-drill)** —
+An interactive CLI that hardens employees against social engineering. An LLM attacker agent runs a
+role-play (fake IT support, CEO fraud, a smishing link, a bank OTP request) while the trainee answers
+in the console; a second LLM agent judges the transcript and returns a structured debrief — techniques
+used, whether anything sensitive was disclosed, a resistance score out of 100. The human is the
+trainee, not the target, and misuse attempts are caught by a rule-based guard before they reach the
+model. Python · OpenAI-compatible LLMs · pytest.
 
 ## Stack
 
