@@ -1,6 +1,6 @@
 # Aaron Habyarimana
 
-CS student at JGU Mainz, graduating September 2026. Currently a working student at Aareon, building internal AI agents with n8n and Copilot Studio.
+Data Science student at RWTH Aachen. Currently a working student at Aareon, building internal AI agents with n8n and Copilot Studio.
 
 ## Projects
 
